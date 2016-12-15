@@ -1,0 +1,273 @@
+/* ==========================================================================
+   Zurich Font
+   ========================================================================== */
+
+
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../fonts/Zurich/zurich_ex_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_ex_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../fonts/Zurich/zurich_extended_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_xblk_btextra_black';
+    src: url('../fonts/Zurich/zurich_extra_black_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_extra_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.svg#zurich_xblk_btextra_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_xcn_btregular';
+    src: url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_extra_condensed_bt-webfont.svg#zurich_xcn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'zurich_cn_btregular';
+    src: url('../fonts/Zurich/zurich_cn_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_cn_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_cn_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_cn_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_cn_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_cn_bt-webfont.svg#zurich_cn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_cn_btregular';
+    src: url('../fonts/Zurich/zurich_condensed_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_condensed_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_condensed_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_condensed_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_condensed_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_condensed_bt-webfont.svg#zurich_cn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_cn_btitalic';
+    src: url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_condensed_italic_bt-webfont.svg#zurich_cn_btitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../fonts/Zurich/zurich_ex_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_ex_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_ex_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../fonts/Zurich/zurich_extended_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_extended_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_xblk_btextra_black';
+    src: url('../fonts/Zurich/zurich_extra_black_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_extra_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_extra_black_bt-webfont.svg#zurich_xblk_btextra_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'zurich_bdxcn_btbold';
+    src: url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.eot');
+    src: url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_bdxcn_bt_bold-webfont.svg#zurich_bdxcn_btbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_blk_btblack';
+    src: url('../fonts/Zurich/zurich_black_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_black_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_black_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_black_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_black_bt-webfont.svg#zurich_blk_btblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_blkex_btblack';
+    src: url('../fonts/Zurich/zurich_black_extended_bt-webfont.eot');
+    src: url('../fonts/Zurich/zurich_black_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_black_extended_bt-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_black_extended_bt-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_black_extended_bt-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_black_extended_bt-webfont.svg#zurich_blkex_btblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_ltcn_btlight_italic';
+    src: url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.eot');
+    src: url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurich_ltcn_bt_light_italic-webfont.svg#zurich_ltcn_btlight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_lightitalic';
+    src: url('../fonts/Zurich/zurichbt-lightitalic-webfont.eot');
+    src: url('../fonts/Zurich/zurichbt-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurichbt-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurichbt-lightitalic-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurichbt-lightitalic-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurichbt-lightitalic-webfont.svg#zurich_lightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurichregular';
+    src: url('../fonts/Zurich/zurichbt-roman-webfont.eot');
+    src: url('../fonts/Zurich/zurichbt-roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurichbt-roman-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurichbt-roman-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurichbt-roman-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurichbt-roman-webfont.svg#zurichregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_condensedregular';
+    src: url('../fonts/Zurich/zurichbt-romancondensed-webfont.eot');
+    src: url('../fonts/Zurich/zurichbt-romancondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Zurich/zurichbt-romancondensed-webfont.woff2') format('woff2'),
+         url('../fonts/Zurich/zurichbt-romancondensed-webfont.woff') format('woff'),
+         url('../fonts/Zurich/zurichbt-romancondensed-webfont.ttf') format('truetype'),
+         url('../fonts/Zurich/zurichbt-romancondensed-webfont.svg#zurich_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+

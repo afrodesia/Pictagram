@@ -1,0 +1,229 @@
+
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../public/Zurich/zurich_ex_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_ex_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_ex_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_ex_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_ex_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_ex_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../public/Zurich/zurich_extended_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_extended_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_extended_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_extended_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_extended_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zurich_xblk_btextra_black';
+    src: url('../public/Zurich/zurich_extra_black_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_extra_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.svg#zurich_xblk_btextra_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_xcn_btregular';
+    src: url('../public/Zurich/zurich_extra_condensed_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_extra_condensed_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_extra_condensed_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_extra_condensed_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_extra_condensed_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_extra_condensed_bt-webfont.svg#zurich_xcn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_cn_btregular';
+    src: url('../public/Zurich/zurich_cn_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_cn_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_cn_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_cn_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_cn_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_cn_bt-webfont.svg#zurich_cn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_cn_btregular';
+    src: url('../public/Zurich/zurich_condensed_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_condensed_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_condensed_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_condensed_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_condensed_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_condensed_bt-webfont.svg#zurich_cn_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_cn_btitalic';
+    src: url('../public/Zurich/zurich_condensed_italic_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_condensed_italic_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_condensed_italic_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_condensed_italic_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_condensed_italic_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_condensed_italic_bt-webfont.svg#zurich_cn_btitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../public/Zurich/zurich_ex_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_ex_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_ex_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_ex_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_ex_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_ex_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_ex_btregular';
+    src: url('../public/Zurich/zurich_extended_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_extended_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_extended_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_extended_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_extended_bt-webfont.svg#zurich_ex_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_xblk_btextra_black';
+    src: url('../public/Zurich/zurich_extra_black_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_extra_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_extra_black_bt-webfont.svg#zurich_xblk_btextra_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_bdxcn_btbold';
+    src: url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.eot');
+    src: url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_bdxcn_bt_bold-webfont.svg#zurich_bdxcn_btbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_blk_btblack';
+    src: url('../public/Zurich/zurich_black_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_black_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_black_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_black_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_black_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_black_bt-webfont.svg#zurich_blk_btblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_blkex_btblack';
+    src: url('../public/Zurich/zurich_black_extended_bt-webfont.eot');
+    src: url('../public/Zurich/zurich_black_extended_bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_black_extended_bt-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_black_extended_bt-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_black_extended_bt-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_black_extended_bt-webfont.svg#zurich_blkex_btblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_ltcn_btlight_italic';
+    src: url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.eot');
+    src: url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.woff') format('woff'),
+         url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurich_ltcn_bt_light_italic-webfont.svg#zurich_ltcn_btlight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_lightitalic';
+    src: url('../public/Zurich/zurichbt-lightitalic-webfont.eot');
+    src: url('../public/Zurich/zurichbt-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurichbt-lightitalic-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurichbt-lightitalic-webfont.woff') format('woff'),
+         url('../public/Zurich/zurichbt-lightitalic-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurichbt-lightitalic-webfont.svg#zurich_lightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurichregular';
+    src: url('../public/Zurich/zurichbt-roman-webfont.eot');
+    src: url('../public/Zurich/zurichbt-roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurichbt-roman-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurichbt-roman-webfont.woff') format('woff'),
+         url('../public/Zurich/zurichbt-roman-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurichbt-roman-webfont.svg#zurichregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_condensedregular';
+    src: url('../public/Zurich/zurichbt-romancondensed-webfont.eot');
+    src: url('../public/Zurich/zurichbt-romancondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../public/Zurich/zurichbt-romancondensed-webfont.woff2') format('woff2'),
+         url('../public/Zurich/zurichbt-romancondensed-webfont.woff') format('woff'),
+         url('../public/Zurich/zurichbt-romancondensed-webfont.ttf') format('truetype'),
+         url('../public/Zurich/zurichbt-romancondensed-webfont.svg#zurich_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*{margin:0; padding: 0;}
+body{
+	font-family: 'zurich_blk_btblack';
+    background-color:#f6f2d2;
+	color:#222;
+}
+h1{
+	font-family: 'zurich_blkex_btblack';
+	text-transform: uppercase;
+	margin: 0;
+  	padding: 0;}
+
+
+body {
+  	margin: 0;
+  	padding: 0;
+  	/*font-family: 'zurich_cn_btregular';*/
+  	/*font-family: 'zurich_condensedregular';*/
+  	font-family: 'zurichregular';
+}
