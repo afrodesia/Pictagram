@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router'
-import PhotoSingle from './PhotoSingle'
+import PhotoLayout from './PhotoLayout'
 
 const Main = React.createClass({
 	render(){
@@ -11,7 +11,7 @@ const Main = React.createClass({
 						<Link to="/">Pictagram</Link>
 					</h1>
 				</header>
-				<PhotoSingle />
+				<PhotoLayout />
 			</div>
 		)
 	}
