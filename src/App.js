@@ -1,17 +1,21 @@
-import React, { Component } from 'react';
-
-import Main from './components/Main'
-
+import React from 'react';
+import { Link } from 'react-router'
 import './App.css';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App container">
-            <Main/> 
-      </div>
-    );
-  }
-}
+const App = React.createClass({
+	render(){
+		return(
+			<div className="App span12">
+				<header className="row row-centered">
+					<h1>
+						<Link to="/">Pictagram</Link>
+					</h1>
+				</header>
+				{React.cloneElement(this.props.children, this.props)}
+				
+			</div>
+		)
+	}
+})
 
-export default App;
+export default App

@@ -1,12 +1,12 @@
 import React from 'react';
-import PhotoSingle from './PhotoSingle' 
+
 
 const PhotoLayout = React.createClass({
 	render(){
 		return(
-			<div className="PhotoLayout">
+			<div className="PhotoLayout container">
 				Layout hear
-				<PhotoSingle />
+				
 			</div>
 		)
 	}
