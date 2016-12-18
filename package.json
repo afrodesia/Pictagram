@@ -44,6 +44,7 @@
     "webpack": "1.14.0",
     "webpack-dev-server": "1.16.2",
     "webpack-manifest-plugin": "1.1.0",
+    "react-app-tools": "^1.1.1",
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
@@ -56,6 +57,7 @@
     "react-redux": "^4.4.5"
   },
   "scripts": {
+    "static": "node server.js",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"

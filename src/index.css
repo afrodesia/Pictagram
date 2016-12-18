@@ -213,11 +213,20 @@ body{
     background-color:#f6f2d2;
 	color:#222;
 }
-h1{
-	font-family: 'zurich_blkex_btblack';
-	text-transform: uppercase;
+h1 a{
+	font-family: 'Euphoria Script', cursive;
+    font-size: 4em;
 	margin: 0;
-  	padding: 0;}
+    text-decoration: none;
+  	padding: 0;
+    padding-top: 30px;
+    letter-spacing: -4px;
+    
+  }
+ h1 a:hover{
+    text-decoration: none;
+    cursor: pointer;
+ } 
 
 
 body {
