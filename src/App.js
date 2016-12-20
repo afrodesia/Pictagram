@@ -5,14 +5,18 @@ import './App.css';
 const App = React.createClass({
 	render(){
 		return(
-			<div className="App span12">
-				<header className="row row-centered">
-					<h1>
-						<Link to="/">Pictagram</Link>
-					</h1>
-				</header>
-				{React.cloneElement(this.props.children, this.props)}
-				
+			<div className="App">
+				<section className="row row-centered">
+					<header>
+						<h1>
+							<Link to="/">Pictagram</Link>
+						</h1>
+					</header>
+				</section>
+
+				<section className="container App-cont">
+					{React.cloneElement(this.props.children, this.props)}
+				</section>				
 			</div>
 		)
 	}

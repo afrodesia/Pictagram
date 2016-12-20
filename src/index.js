@@ -5,7 +5,6 @@ import { render } from 'react-dom'
 import './index.css';
 
 import App from './App';
-// import Main from './components/Main'
 import PhotoLayout from './components/PhotoLayout'
 import PhotoSingle from './components/PhotoSingle' 
 import { Router, Route, IndexRoute, browserHistory } from 'react-router'
