@@ -12,7 +12,7 @@ const PhotoLayout = React.createClass({
 			<div className="PhotoLayout">
 				<div className="row">
 
-				    <div className="col-md-4">
+				    <div className="">
 				    	{this.props.posts.map((post, i) => <Photo {...this.props} key={i} i={i} post={post} /> )}
 				    </div>
 
