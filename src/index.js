@@ -1,17 +1,17 @@
 import React from 'react';
 // import ReactDOM from 'react-dom';
 import { render } from 'react-dom'
-
 import './index.css';
+import { Router, Route, IndexRoute } from 'react-router'
+import { Provider } from 'react-redux'
+
 // Components
 
-// import App from './App';
 import Main from './components/Main';
 import PhotoLayout from './components/PhotoLayout'
 import PhotoSingle from './components/PhotoSingle' 
-import { Router, Route, IndexRoute } from 'react-router'
 
-import { Provider } from 'react-redux'
+// Store
 import store, { history } from './store'
 
 const router = (
