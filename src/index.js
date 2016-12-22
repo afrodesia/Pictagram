@@ -14,7 +14,7 @@ import PhotoSingle from './components/PhotoSingle'
 // Store
 import store, { history } from './store'
 
-const router = (
+render(
 	<Provider store={ store }>
 		<Router history={ history }>
 	        <Route path='/' component={Main}>
@@ -22,12 +22,11 @@ const router = (
 	            <Route path='/view/:postId' component={PhotoSingle}></Route>
 	        </Route>
     	</Router>
-	</Provider>
-    
+	</Provider>,
+    document.getElementById('root')
 )
 
 
-render(router,document.getElementById('root'));
   
   
 
